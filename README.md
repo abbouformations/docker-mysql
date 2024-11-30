@@ -1,7 +1,7 @@
 - See the active containers :
   ![image](https://github.com/user-attachments/assets/91735297-1ab3-4bf6-ad89-b487114a309c)
 
-- Connect de the mysql database :
+- Connect to the mysql database :
   ![image](https://github.com/user-attachments/assets/c8c1e669-0ecc-4dfd-9a24-71c5ee1effdf)
 
 - See all databases :
